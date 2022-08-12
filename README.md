@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashish
-- 👀 I’m interested in Vue Js
+- 👀 I’m interested in Vue Js / React Js
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on some amazing projects.
 - 📫 How to reach me ashish@veersatech.com
